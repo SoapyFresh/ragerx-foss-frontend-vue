@@ -1,0 +1,19 @@
+
+{
+  "general": {
+    "pool_name":"Crypto Sewer XMR RagerX Pool"
+  },
+  "api": {
+    "url": "https://xmrpool.cryptosewer.com/api",
+    "polling_interval": 30
+  },
+  "links": [
+    { "title": "Telegram", "href": "https://t.me/cryptosewer" },
+      { "title": "Reddit", "href": "https://reddit.com/r/ragerx" },
+          { "title": "Youtube Channel", "href": "https://youtube.com/cryptosewer" },
+		]
+}
+
+
+
+
