@@ -1,5 +1,30 @@
+
 <template>
+
+
 <div>
+
+<b-row class="mt-3">
+    <b-col md="6" class="mb-3">
+
+        <b-card-text>
+<center>
+<img src="./Logomark.png" style="height: 100px"><img src="./Wordmark.png" style="height: 100px"></center>
+
+        </b-card-text>
+      </b-card>
+      </b-col>
+
+ <b-col md="6" lg="3" class="mb-3">
+ 
+        <b-card-text>
+Welcome to the Crypto Sewer XMR RagerX Pool!  This pool is designed to be used with the RagerX miner. <a href="https://monero.ragerx.lol/z3pmi5">Click here</a> to download RagerX
+
+        </b-card-text>
+      </b-col>
+    </b-row>
+
+
 
   <b-row class="mt-3">
 
