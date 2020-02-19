@@ -4,6 +4,18 @@
   <b-navbar toggleable="md" type="dark" variant="primary">
     <b-container fluid="xl">
 
+
+ <div>
+            <button type="button" class="btn btn-outline drawer-toggle">
+                <i class="fa fa-bars"></i>
+            </button>
+
+            <a class="navbar-brand hot_link" data-page="home.html" href="#">
+                <img src="./SVGLogo.svg" style="height: 60px">
+            </a>
+            </div>
+
+
       <b-navbar-brand to="/">
         {{ $config.general.pool_name }}
       </b-navbar-brand>
