@@ -8,9 +8,10 @@
     "polling_interval": 30
   },
   "links": [
-    { "title": "Telegram", "href": "https://t.me/cryptosewer" },
-      { "title": "Reddit", "href": "https://reddit.com/r/ragerx" },
-          { "title": "Youtube Channel", "href": "https://youtube.com/cryptosewer" }
+      { "title": "Crypto Sewer Telegram", "href": "https://t.me/cryptosewer" },
+      { "title": "RagerX Telegram", "href": "https://t.me/ragerxlol" },
+      { "title": "RagerX Reddit", "href": "https://reddit.com/r/ragerx" },
+      { "title": "Youtube Channel", "href": "https://youtube.com/cryptosewer" }
 		]
 }
 
