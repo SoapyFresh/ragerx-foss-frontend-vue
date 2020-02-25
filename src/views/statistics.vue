@@ -18,7 +18,7 @@
  <b-col md="4" lg="3" class="mb-3">
  
         <b-card-text>
-Welcome to the Crypto Sewer XMR RagerX Pool!  This pool is designed to be used with the RagerX miner. <a href="https://monero.ragerx.lol/z3pmi5">Click here</a> to download RagerX!
+Welcome to the Crypto Sewer XMR RagerX Pool!  This pool is designed to be used with the RagerX miner. <a href="https://monero.ragerx.lol/z3pmi5" target="new">Click here</a> to download RagerX!
 
         </b-card-text>
       </b-col>
@@ -26,7 +26,7 @@ Welcome to the Crypto Sewer XMR RagerX Pool!  This pool is designed to be used w
     <b-col md="4" class="mb-3">
 
         <b-card-text>
-Not sure how to get started? <a href="https://youtube.com/cryptosewer">Check out our Youtube Channel</a> for a quick start video guide!
+Not sure how to get started? <a href="https://youtube.com/cryptosewer" target="new">Check out our Youtube Channel</a> for a quick start video guide!
 
         </b-card-text>
 
